@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## ⊹  ⑅  🌌  𓏼  " 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 "
+## ⊹  ⑅  🌌  𓏼  " Introduction "
 
 <br>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## ⊹  ⑅  🌠  𓏼  " 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 "
+## ⊹  ⑅  🌠  𓏼  " Currently Learning "
 
 <br>
 
