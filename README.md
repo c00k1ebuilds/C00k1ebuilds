@@ -164,7 +164,7 @@ div align="center">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=c00kiebuilds&bg_color=0d0020&color=d4aaff&line=9d7fd4&point=b57bff&area=true&hide_border=true&area_color=1a0533" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c00k1ebuilds&bg_color=0d0020&color=d4aaff&line=9d7fd4&point=b57bff&area=true&hide_border=true&area_color=1a0533" width="100%"/>
 
 </div>
 
