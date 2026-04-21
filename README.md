@@ -161,11 +161,7 @@ div align="center">
 
 <br>
 
-<a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-1a0533?style=for-the-badge&logo=linkedin&logoColor=d4aaff&labelColor=0d0020"/></a>
-
-<br><br>
-
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-reach%20out-1a0533?style=for-the-badge&logo=gmail&logoColor=d4aaff&labelColor=0d0020"/></a>
+<a href="mailto:crumblc00k1eml@gmail.com"><img src="https://img.shields.io/badge/Gmail-reach%20out-1a0533?style=for-the-badge&logo=gmail&logoColor=d4aaff&labelColor=0d0020"/></a>
 
 <br><br>
 
