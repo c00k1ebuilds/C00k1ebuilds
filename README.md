@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0a0a2e&height=200&section=header&text=Hello,%20i'm%20𝒞𝗢𝗢𝗞𝗜𝗘%20%E2%9C%A8&fontSize=42&fontColor=d4aaff&fontAlignY=38&desc=Labdhi%20Belani%20%C2%B7%20aspiring%20ml%20engineer%20%C2%B7%20day%201%20of%20%E2%88%9E&descSize=14&descAlignY=58&descColor=9d7fd4&animation=fadeIn" />
 
@@ -56,3 +56,150 @@
 <br>
 
 <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-learning%20soon-2a0a3a?style=for-the-badge&logo=python&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--learn-learning%20soon-2a0a3a?style=for-the-badge&logo=scikitlearn&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-learning%20soon-2a0a3a?style=for-the-badge&logo=tensorflow&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-learning%20soon-2a0a3a?style=for-the-badge&logo=pytorch&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-learning%20soon-2a0a3a?style=for-the-badge&logo=keras&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-learning%20soon-2a0a3a?style=for-the-badge&logo=opencv&logoColor=7a5fa0&labelColor=150025"/></a>
+
+**— app dev —**
+
+<br>
+
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-learning%20soon-2a0a3a?style=for-the-badge&logo=flutter&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-learning%20soon-2a0a3a?style=for-the-badge&logo=dart&logoColor=7a5fa0&labelColor=150025"/></a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⊹  ⑅  🛸  𓏼  " tech stack "
+
+> no fake skills here · just real beginnings ✨
+
+<br>
+
+| | skill | progress | status |
+|:---:|:---|:---:|:---|
+| 🐍 | **Python** | `◉◉○○○○○○○○` | just starting |
+| 🤖 | **ML Theory** | `◉○○○○○○○○○` | reading phase |
+| 🐙 | **Git & GitHub** | `◉◉○○○○○○○○` | figuring it out |
+| 📓 | **Jupyter / Colab** | `◉○○○○○○○○○` | next up |
+| 📊 | **NumPy / Pandas** | `◎○○○○○○○○○` | just touched it |
+| 🧠 | **Scikit-learn** | `○○○○○○○○○○` | learning soon |
+| 🔥 | **TensorFlow** | `○○○○○○○○○○` | learning soon |
+| 💜 | **PyTorch** | `○○○○○○○○○○` | learning soon |
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⊹  ⑅  🌙  𓏼  " projects "
+
+> *the universe is still being built* 🌌
+
+<br>
+
+　　　⑅　　　₊　　˙　　**project 001**　﹡!﹡
+
+　　　coming soon　·　planning phase　·　ideas brewing　:　🚀
+
+　　　　　day 1　·　foundation first　.　𝄞
+
+<br>
+
+　　　⑅　　　₊　　˙　　**project 002**　﹡!﹡
+
+　　　coming soon　·　learning first　·　building blocks　:　🌌
+
+　　　　　concept forming　·　stay tuned　.　𝄞
+
+<br>
+
+　　　⑅　　　₊　　˙　　**project 003**　﹡!﹡
+
+　　　coming soon　·　not yet　·　but it's happening　:　🍪
+
+　　　　　patience　·　in progress　.　𝄞
+
+<br>
+
+*follow along — this section won't stay empty for long* 👀
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⊹  ⑅  📊  𓏼  " stats "
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c00kiebuilds&theme=tokyonight" width="100%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c00kiebuilds&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c00kiebuilds&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c00kiebuilds&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=c00kiebuilds&theme=midnight-purple&hide_border=true&background=0d0020&ring=b57bff&fire=d4aaff&currStreakLabel=9d7fd4&sideLabels=c9b8e8&dates=7a6897&currStreakNum=d4aaff&sideNums=b57bff"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⊹  ⑅  🪐  𓏼  " activity "
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c00kiebuilds&bg_color=0d0020&color=d4aaff&line=9d7fd4&point=b57bff&area=true&hide_border=true&area_color=1a0533" width="100%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⊹  ⑅  🌸  𓏼  " connect "
+
+<br>
+
+<a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-1a0533?style=for-the-badge&logo=linkedin&logoColor=d4aaff&labelColor=0d0020"/></a>
+
+<br><br>
+
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-reach%20out-1a0533?style=for-the-badge&logo=gmail&logoColor=d4aaff&labelColor=0d0020"/></a>
+
+<br><br>
+
+---
+
+　　　✿𓏼　₍ ᐢ..ᐢ ₎　gbye!　𖦹
+
+　　　⑅　labdhi signing out　·　no thoughts
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
+
+<img src="https://komarev.com/ghpvc/?username=c00kiebuilds&style=flat-square&color=1a0533&labelColor=0d0020&label=visitors"/>
+
+</div>
