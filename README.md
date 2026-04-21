@@ -167,9 +167,9 @@ div align="center">
 
 ---
 
-　　　✿𓏼　₍ ᐢ..ᐢ ₎　gbye!　𖦹
+　　　✿𓏼　goodbye!　𖦹
 
-　　　⑅　labdhi signing out　·　no thoughts
+　　　⑅　this profile updates weekly as I learn.　·　started April 2026 from 0 !
 
 ---
 
