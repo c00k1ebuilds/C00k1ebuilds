@@ -57,7 +57,7 @@ div align="center">
 
 <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-learning%20soon-2a0a3a?style=for-the-badge&logo=python&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--learn-learning%20soon-2a0a3a?style=for-the-badge&logo=scikitlearn&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-learning%20soon-2a0a3a?style=for-the-badge&logo=tensorflow&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-learning%20soon-2a0a3a?style=for-the-badge&logo=pytorch&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-learning%20soon-2a0a3a?style=for-the-badge&logo=keras&logoColor=7a5fa0&labelColor=150025"/></a> <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-learning%20soon-2a0a3a?style=for-the-badge&logo=opencv&logoColor=7a5fa0&labelColor=150025"/></a>
 
-**— app dev —**
+> **──★ ˙ app dev !!**
 
 <br>
 
@@ -73,7 +73,7 @@ div align="center">
 
 ## ⊹  ⑅  🛸  𓏼  " tech stack "
 
-> no fake skills here · just real beginnings ✨
+`` no fake skills here · just real beginnings ``
 
 <br>
 
@@ -98,7 +98,7 @@ div align="center">
 
 ## ⊹  ⑅  🌙  𓏼  " projects "
 
-> *the universe is still being built* 🌌
+`` the universe is still being built 🌌 ``
 
 <br>
 
@@ -108,25 +108,8 @@ div align="center">
 
 　　　　　day 1　·　foundation first　.　𝄞
 
-<br>
 
-　　　⑅　　　₊　　˙　　**project 002**　﹡!﹡
-
-　　　coming soon　·　learning first　·　building blocks　:　🌌
-
-　　　　　concept forming　·　stay tuned　.　𝄞
-
-<br>
-
-　　　⑅　　　₊　　˙　　**project 003**　﹡!﹡
-
-　　　coming soon　·　not yet　·　but it's happening　:　🍪
-
-　　　　　patience　·　in progress　.　𝄞
-
-<br>
-
-*follow along — this section won't stay empty for long* 👀
+> *follow along — this section won't stay empty for long* 👀
 
 </div>
 
